@@ -2,6 +2,7 @@
 
 ## Popular Movies
 
+Inline-style:
 ![popularmovies](./screenshots/Screenshot_1621970790.png)
 
 ## Now Playing Movies
