@@ -2,21 +2,20 @@
 
 ## Popular Movies
 
-Inline-style:
-![popularmovies](./screenshots/Screenshot_1621970790.png)
+<img src="./screenshots/Screenshot_1621970790.png" width="250">
 
 ## Now Playing Movies
 
-![nowplayingmovies](./screenshots/Screenshot_1621970849.png)
+<img src="./screenshots/Screenshot_1621970849.png" width="250">
 
 ## Top Rated Movies
 
-![topratedmovies](./screenshots/Screenshot_1621970845.png)
+<img src="./screenshots/Screenshot_1621970845.png" width="250">
 
 ## Movie Details
 
-![moviedetails](./screenshots/Screenshot_1621970822.png)
+<img src="./screenshots/Screenshot_1621970822.png" width="250">
 
 ## Favorite Movies
 
-![favoritemovies](./screenshots/Screenshot_1621970837.png)
+<img src="./screenshots/Screenshot_1621970837.png" width="250">
