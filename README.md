@@ -1,16 +1,21 @@
 # tmdb_movie_app
 
-A new Flutter project.
+## Popular Movies
 
-## Getting Started
+![popularmovies](./screenshots/Screenshot_1621970790.png)
 
-This project is a starting point for a Flutter application.
+## Now Playing Movies
 
-A few resources to get you started if this is your first Flutter project:
+![nowplayingmovies](./screenshots/Screenshot_1621970849.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Top Rated Movies
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![topratedmovies](./screenshots/Screenshot_1621970845.png)
+
+## Movie Details
+
+![moviedetails](./screenshots/Screenshot_1621970822.png)
+
+## Favorite Movies
+
+![favoritemovies](./screenshots/Screenshot_1621970837.png)
